@@ -91,7 +91,7 @@ const Homepage = () => {
             </div>
           </div>
           <div className="col-md-4">
-            <div className="neonboxex rounded">f</div>
+            <div className="neonboxex rounded"><h2 className='pb-0 ps-2 pt-2'>Archives</h2></div>
           </div>
         </div>
       </div>
