@@ -132,3 +132,28 @@ h1:focus {
   border: 1px rgb(255, 255, 255) solid ;
   
 }
+.recentcard{
+  margin-bottom: 70px;
+  .card-title{
+    font-size: 15px !important;
+    margin-bottom: 0px;
+  }
+  .card-body{
+    padding: 0px !important;
+    position: absolute;
+    top:102%;
+    
+  }
+  .button-container{
+    position: absolute;
+  
+  }
+  .btn-warning{
+    background-color: #f00 !important;
+    opacity: 0.8 !important;
+    color:#f6f6f6;
+    font-weight: 600;
+    padding: 2px !important;
+  }
+  
+}
